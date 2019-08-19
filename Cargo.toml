@@ -3,6 +3,9 @@ name = "piyin-wasm"
 version = "0.0.1"
 authors = ["姜闽 <mjiang1000@gmail.com>"]
 edition = "2018"
+description = "convert Chinese character to pinyin with WebAssembly!"
+repository = "https://github.com/mjiang1000/piyin-wasm"
+keywords = ["pinyin", "wasm", "webassembly", "rust-wasm"]
 
 [lib]
 crate-type = ["cdylib", "rlib"]
