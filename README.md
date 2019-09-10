@@ -6,3 +6,6 @@
 
 实现常用汉字转pinyin，字库来自npm@[pinyin4js](https://www.npmjs.com/package/pinyin4js)
 
+
+build
+`wasm-pack build`
